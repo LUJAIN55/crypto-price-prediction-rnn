@@ -45,4 +45,8 @@ This project applies **RNN-based deep learning** to analyze historical crypto pr
 The model successfully learns temporal patterns in cryptocurrency price movements and produces reasonable future price predictions.  
 Visualizations are included to compare predicted vs actual values.
 
+## 📌 Note
+This project uses Kaggle API to download the dataset. Make sure to upload your kaggle.json file when running in Google Colab.
+
+
 
